@@ -1,0 +1,26 @@
+.button{
+    margin-left: 10px;
+    border: gray;
+    border-radius: 20%;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#search{
+    padding-right: 200px;
+  
+}
+img{
+    border: gray;
+  width: 20px;
+  height: 200px;
+
+}
+.color{
+    color: red;
+margin-left: 20px;
+}
